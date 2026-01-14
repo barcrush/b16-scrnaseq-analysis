@@ -1,5 +1,5 @@
 ---
-title: "Single-cell RNA-seq analysis of B16 tumor infiltrating immune cells"
+title: "Single-cell RNAseq analysis of B16 tumor infiltrating immune cells"
 author: Yogesh Maithania
 date: "December 12, 2025 \n\n[GitHub Repo](https://github.com/barcrush/b16-brnaseq-analysis)"
 output:
